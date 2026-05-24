@@ -11,14 +11,14 @@ h1 {
 
 div {
     display: inline-block;
-    width: 100rem;
+    width: 40rem;
     height:100rem;
 }
 .white{
     position: absolute;
     background: white;
-    width:100%;
-    left: 100%;
+    width:70%;
+    left: 15%;
 }
 .container {
   width: 800px;
