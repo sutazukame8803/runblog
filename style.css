@@ -17,8 +17,8 @@ div {
 .white{
     position: absolute;
     background: white;
-    width:70%;
-    left: 15%;
+    width:100%;
+    left: 100%;
 }
 .container {
   width: 800px;
