@@ -1,0 +1,27 @@
+body {
+    background:#87c487;
+}
+h1 {
+    color: #ffffff;
+}
+
+/* div {
+    display: inline-block;
+    width: 50rem;
+    height:50rem;
+    left: 50%;
+} */
+.white{
+position: absolute;
+    background: white;
+
+    height:50rem;
+    width:70%;
+    left: 15%;
+}
+
+#mainmydevices{
+    position: relative;
+
+    padding-left: 40px;
+}
