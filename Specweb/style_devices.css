@@ -7,12 +7,18 @@ h1 {
 
 div {
     display: inline-block;
-    width: 50rem;
-    height:50rem;
+    width: 200rem;
+    height:200rem;
 }
 .white{
 position: absolute;
     background: white;
     width:70%;
     left: 15%;
+}
+img{
+    display: block;
+    width: 50%;
+    height: 50%;
+    
 }
